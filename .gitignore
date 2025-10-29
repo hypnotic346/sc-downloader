@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+intermediates
+vcpkg_installed
+binary_to_compressed_c
+.vs

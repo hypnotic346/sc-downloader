@@ -1,0 +1,34 @@
+{
+  "dependencies": [
+    {
+      "name": "fmt"
+    },
+    {
+      "name": "cpr"
+    },
+    {
+      "name": "gl3w"
+    },
+    {
+      "name": "spdlog"
+    },
+    {
+      "name": "nlohmann-json"
+    },
+    {
+      "name": "vcpkg-cmake"
+    },
+    {
+      "name": "vcpkg-cmake-config"
+    },
+    {
+      "name": "nlohmann-json"
+    },
+    {
+      "name": "stb"
+    },
+    {
+      "name": "freetype"
+    }
+  ]
+}
